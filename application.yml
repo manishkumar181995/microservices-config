@@ -7,4 +7,10 @@ eureka:
 
   instance:
     ip-address: true
+
+spring:
+  application:
+     name: config-default
+    
+    
     
